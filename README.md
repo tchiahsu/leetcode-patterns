@@ -2,7 +2,7 @@
 
 ## [NAME OF TECHNIQUE]
 
-# [NAME OF LEETCODE PROBLEM]
+### [NAME OF LEETCODE PROBLEM]
 
 Description of Problem
 
